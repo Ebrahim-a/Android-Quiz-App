@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275234624076",
+    "project_id": "login-dd6a3",
+    "storage_bucket": "login-dd6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275234624076:android:ecf49f815c45c5d0f5dae9",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAge0DGPLFYktn-1TeHh4NZVqMRHQ7hu3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
